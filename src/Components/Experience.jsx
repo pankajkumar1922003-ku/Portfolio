@@ -3,13 +3,13 @@ import { motion } from "framer-motion";
 const experiences = [
   {
     number: "01",
-    company: "SELLAR",
-    role: "Software Developer Intern",
+    company: "SELLAR.in",
+    role: "Software Developer",
     period: "Dec 2025 — Present",
     current: true,
 
     description:
-      "Currently working as a Software Developer Intern at SELLAR, a startup that builds software solutions for businesses, including POS, catalogue management, inventory, billing, order management and event management systems. I contribute to the development of production-grade web applications and work on building user-friendly, scalable and efficient software solutions.",
+      "Currently working as a Software Developer at SELLAR.in, a startup that builds software solutions for businesses, including POS, catalogue management, inventory, billing, order management and event management systems. I contribute to the development of production-grade web applications and work on building user-friendly, scalable and efficient software solutions.",
 
     achievements: [
       "Worked on a catalogue management system designed to help businesses efficiently manage products, inventory and related operations.",
